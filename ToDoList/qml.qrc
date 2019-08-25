@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Home.qml</file>
+        <file>Add.qml</file>
+        <file>Tasks.qml</file>
+        <file>Entry.qml</file>
+        <file>md-trash.svg</file>
+        <file>Delegate.qml</file>
+        <file>md-arrow-round-back.svg</file>
+        <file>Edit.qml</file>
+        <file>Combo.qml</file>
+    </qresource>
+</RCC>
